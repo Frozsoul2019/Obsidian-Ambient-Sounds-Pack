@@ -6,12 +6,15 @@ This addon adds ambient sounds to various ObAddon prefabs.
 
 To use this addon:
 
-	1. Place the addon PK3 file in your Oblige "addons" folder (where your ObAddon PK3 file is located)
-	2. Open the OBLIGE program and select this addon (Menu -> Addon List)
-	3. Check the new "Prefab Sounds" option within the middle column.
-	4. Build your Oblige map as usual
+	1. Download or clone the repo as desired.
+	2. Open the ObAddon-Prefab-Sounds-master/ folder.
+	3. Add the contents of the folder to a compressed / zipped folder named ObAddon-Prefab-Sounds.pk3
+	4. Place ObAddon-Prefab-Sounds.pk3 in your Oblige "addons" folder (where your ObAddon file is located)
+	5. Open the OBLIGE program and select ObAddon-Prefab-Sounds.pk3
+	6. Check the new "Prefab Sounds" option within the middle column of Oblige GUI.
+	7. Build your Oblige map as usual
 	
-Note: This PK3 addon is meant only to be used with Oblige.  It should *not* be included with your Doom launcher (e.g. GZDoom).
+Note: This PK3 addon is meant only to be used as an addon with Oblige.  It should *not* be included among your Doom launcher's files (e.g. GZDoom).
 
 For more information about ObAddon and all available addons, join the OBLIGE discord!
 A link to the Discord and more information about ObAddon is availble at:
