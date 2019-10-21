@@ -7,25 +7,25 @@ $limit TECHAMB 1
 // Rainforest (Urban) Ambience
 // Credit: http://soundbible.com/1818-Rainforest-Ambience.html
 RAINAMB RAINAMB
-$ambient 2 RAINAMB point continuous 0.6
+$ambient 1 RAINAMB point continuous 0.6
 $limit RAINAMB 1
 
 // Arctic Air Ambience
 // Credit: https://freesound.org/people/cobratronik/sounds/117136/
 ARCTIC ARCTIC
-$ambient 2 ARCTIC point continuous 1.0
+$ambient 1 ARCTIC point continuous 1.0
 $limit ARCTIC 1
 
 // Street Ambience
 // Credit: https://freesound.org/people/batman6661/sounds/179897/
 STREETAM STREETAM
-$ambient 3 STRETAM point continuous 0.6
+$ambient 2 STRETAM point continuous 0.6
 $limit STREETAM 1
 
 // Hell Ambience
 // Credit: https://freesound.org/people/Argitoth/sounds/108906/
 HELLAMB HELLAMB
-$ambient 4 HELLAMB world random 1.0 3.0 1.0
+$ambient 1 HELLAMB world random 1.0 3.0 1.0
 $limit HELLAMB 1
 
 // **** Thing Sounds
@@ -36,27 +36,27 @@ $limit HELLAMB 1
 // under CC-BY 3.0 License http://creativecommons.org/licenses/by/3.0/legalcode 
 // with sounds by wolick, swiftoid, Diboz
 COMPY1 COMPY1
-$ambient 5 COMPY1 point continuous 0.5
+$ambient 3 COMPY1 point continuous 0.5
 
 // Bathroom fan
 // Credit: https://freesound.org/people/deleted_user_7146007/sounds/383811/
 BATHFAN BATHFAN
-$ambient 6 BATHFAN point continuous 0.8
+$ambient 3 BATHFAN point continuous 0.8
 
 // Custom indoor fan (use with ObAddon's Epic Textures)
 // Credit: https://freesound.org/people/calivintage/sounds/95705/
 FANSND FANSND
-$ambient 7 FANSND point continuous 1.0
+$ambient 4 FANSND point continuous 1.0
 
 // Machine Air sound clip
 // Credit: https://freesound.org/people/duckduckpony/sounds/130520/
 MACHNAIR MACHNAIR
-$ambient 7 MACHNAIR point continuous 1.0
+$ambient 5 MACHNAIR point continuous 1.0
 
 // Ventilation background noise
 // Credit: http://soundbible.com/1508-Background-Noise.html
 MACHVENT MACHVENT
-$ambient 7 MACHVENT point continuous 1.0
+$ambient 3 MACHVENT point continuous 1.0
 
 // Demonic whispers
 // Credit: Hunter's Moon mod by Zanieon
@@ -67,22 +67,22 @@ $ambient 7 SKLLCHNT point continuous 1.0
 // Sparking sound
 // Credit: https://freesound.org/people/chipfork/sounds/52597/
 SPARKING SPARKING
-$ambient 7 SPARKING point continuous 1.0
+$ambient 4 SPARKING point random 1.0 3.0 1.0
 
 // Static sound clip
 // Credit: http://soundbible.com/149-Radio-Static.html
 STATIC STATIC
-$ambient 7 SPARKING point continuous 1.0
+$ambient 7 STATIC point continuous 0.5
 
 // Toilet Running
 // Credit: http://soundbible.com/434-Water-Down-Gutter-3.html
 TOILETRN TOILETRN
-$ambient 7 TOILETRN point continuous 0.8
+$ambient 5 TOILETRN point continuous 0.8
 
 // Vending Machine
 // Credit: https://freesound.org/people/portwain/sounds/261125/
 VENDHUM VENDHUM
-$ambient 7 VENDHUM point continuous 1.0
+$ambient 5 VENDHUM point continuous 1.0
 
 // Water Draining
 // Credit: https://freesound.org/people/chris.t/sounds/444697/#
@@ -92,7 +92,7 @@ $ambient 7 WATDRAIN point continuous 0.8
 // Water Streaming
 // Credit: http://soundbible.com/1444-Liquid.html
 WATSTRM WATSTRM
-$ambient 7 WATSTRM point continuous 1.0
+$ambient 6 WATSTRM point continuous 1.0
 
 // Water Tank
 // Credit: https://freesound.org/people/7778/sounds/197805/
