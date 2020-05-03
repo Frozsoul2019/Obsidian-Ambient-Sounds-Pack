@@ -34,7 +34,7 @@ Decoration Ambient Sounds
 | ---------- | ----------- |
 | BATHFAN    | [Bathroom Fan](https://freesound.org/people/deleted_user_7146007/sounds/383811/) |
 | COMPY1     | [Computer Workstation](http://freesound.org/people/qubodup/sounds/212025) |
-| CONVEYOR   | [Conveyor Belt Sound Clip](https://freesound.org/people/CaganCelik/sounds/465522/) |
+| CONVMECH   | [Mechanical Conveyor Belt Sound Clip](https://freesound.org/people/CaganCelik/sounds/465522/) |
 | FANSND     | [Indoor Fan](https://freesound.org/people/calivintage/sounds/95705/) |
 | MACHNAIR   | [Machine Air Sound Clip](https://freesound.org/people/duckduckpony/sounds/130520/) |
 | MACHVENT   | [Ventilation Background Noise](http://soundbible.com/1508-Background-Noise.html) |
