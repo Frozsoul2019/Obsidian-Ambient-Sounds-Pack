@@ -20,15 +20,16 @@ Environment Ambient Sounds
 
 | Sound File | Description & Source |
 | ---------- | -------------------- |
-| ARCTIC     | [Arctic Air Ambience](https://freesound.org/people/cobratronik/sounds/117136/) |
-| CAVEAMB    | [Cave Ambience](https://freesound.org/people/Kinoton/sounds/421826/) |
+| ARCTIC     | [Outdoor Arctic Wind](https://freesound.org/people/cobratronik/sounds/117136/) |
+| CAVEAMB    | [Cave](https://freesound.org/people/Kinoton/sounds/421826/) |
 | DESERT     | Desert Air Ambience |
-| HELLAMB    | [Hell Ambience](https://freesound.org/people/Argitoth/sounds/108906/) |
-| RAINAMB    | [Rainforest](http://soundbible.com/1818-Rainforest-Ambience.html) |
-| STREETAM   | [Street Ambience](https://freesound.org/people/batman6661/sounds/179897/) |
-| TECHAMB    | [Tech Outdoor Ambience](https://freesound.org/people/marjan83/sounds/202983/) |
-| TECHIND    | [Tech Indoor Ambience](https://freesound.org/people/richwise/sounds/456207/) |
-| TEMPPARK   | [Temperate Park Ambience](https://freesound.org/people/KToppMod/sounds/238184/) |
+| HELLIND    | [Indoor Hell](https://freesound.org/people/Argitoth/sounds/108906/) |
+| HELLOUT    | [Outdoor Hell](https://freesound.org/people/OllieOllie/sounds/262352/) |
+| RAINAMB    | [Outdoor Urban Rainforest](http://soundbible.com/1818-Rainforest-Ambience.html) |
+| STREETAM   | [Outdoor Streets](https://freesound.org/people/batman6661/sounds/179897/) |
+| TECHAMB    | [Outdoor Tech](https://freesound.org/people/marjan83/sounds/202983/) |
+| TECHIND    | [Indoor Tech](https://freesound.org/people/richwise/sounds/456207/) |
+| TEMPPARK   | [Outdoor Temperate Park](https://freesound.org/people/KToppMod/sounds/238184/) |
 
 
 Prefab Ambient Sounds
