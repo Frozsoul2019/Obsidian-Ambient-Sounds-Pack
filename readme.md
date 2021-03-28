@@ -9,7 +9,7 @@ To use this addon:
 3. Download the ambient sounds pack (e.g. in ZIP file format) and modify it as needed so that the "SOUNDS" folder appears at the root level (optionally rename extension to .PK3)
 4. Include the ambient sounds pack ZIP/PK3 file with your Doom launcher
 
-For more information about Obsidian, or to help contribute the project, join the [Unofficial OBLIGE Discord]((https://discord.gg/dfqCt9v)!
+For more information about Obsidian, or to help contribute the project, join the [Unofficial OBLIGE Discord](https://discord.gg/dfqCt9v)
 
 
 # Credits
